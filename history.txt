@@ -1,0 +1,18 @@
+    1  ls
+    2  touch test3.txt
+    3  ls
+    4  gzip --help
+    5  bzip --help
+    6  bzip2 --help
+    7  zip --help
+    8  unzip --help
+    9  free -m
+   10  htop
+   11  uname -r
+   12  cat /etc/os-release
+   13  neofetch
+   14  nl /etc/passwd
+   15  nl /etc/passwd | tail -n 11
+   16  history history.txt
+   17  history
+   18  history > history.txt
